@@ -22,6 +22,7 @@ function App() {
   
   axios.request(options).then(function (response) {
     console.log(response.data);
+    console.log('git')
   }).catch(function (error) {
     console.error(error);
   });
