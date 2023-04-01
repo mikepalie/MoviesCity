@@ -1,0 +1,57 @@
+.navbar {
+  background-color: rgb(30, 83, 83);
+  width:300vh;
+  position:fixed;
+  top:0px;
+  z-index: 9;
+}
+
+.body {
+  
+  position:absolute;
+  top: 400px;
+}
+
+.navbar-logo{
+  width:150px;
+  height: 120px;
+}
+
+ul {
+  width:100vh;
+  position:absolute;
+  top:55px;
+  left:230px;
+  display: inline-block;
+  list-style-type: none;
+  margin:30px;
+  padding:0px;
+}
+
+li { 
+  display: inline;
+  margin-right: 40px;
+}
+
+a {
+  color:white;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+/* navbar {
+  position:fixed;
+  top:0px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
